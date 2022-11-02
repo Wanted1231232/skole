@@ -1,0 +1,23 @@
+.header {
+  padding: 60px;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+}
+
+
+.center {
+  text-align:center;
+ display:block;
+}
+
+
+.header {
+  background-color: rgb(28, 82, 199);
+}
+
+@media  screen and (max-width: 600px) {
+  .header {
+    background-color: rgb(255, 72, 0);
+  }
+}
