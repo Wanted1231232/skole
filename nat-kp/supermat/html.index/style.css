@@ -1,0 +1,198 @@
+body {
+  margin: 0px;
+}
+
+.header {
+  
+   display: flex;
+    text-align: center;
+    background-color: 
+    rgb(31, 10, 43);
+    font-size: 90px;
+    height: 1000px;
+    justify-content: center;
+    align-items: center;
+  }
+#tc {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 50%;
+}
+
+#info {
+  height: 50%;
+}
+
+#ppp {
+  height: 50%;
+}
+
+
+#produkt {
+  text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+
+
+
+
+
+
+
+.card {
+  box-shadow: 0 4px 8px 0 #d908f533;
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  background-color:rgb(255, 255, 255)
+}
+
+.price {
+  color: rgb(140, 51, 199);
+  font-size: 22px;
+}
+
+.card button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: rgb(146, 63, 194);
+  background-color: rgb(189, 108, 214);
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+
+
+
+
+
+.card2 {
+  box-shadow: 0 4px 8px 0 #00000033;
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  background-color: rgb(247, 247, 253);
+}
+
+.prisen2 {
+  color: rgb(8, 14, 19);
+  font-size: 22px;
+}
+
+.card2 button {
+  border: none;
+  outline: 0;
+  padding: 12px;
+  color: rgb(152, 156, 189);
+  background-color: rgb(136, 175, 211);
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+}
+
+.card button:hover {
+  opacity: 0.7;
+}
+
+
+#sussy {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+ 
+
+
+#ppp, #produkt, #tittel1, #tittel2 {
+  color: rgb(241, 178, 178);
+
+}
+
+
+
+#Hvem {
+  color: rgb(83, 10, 70);
+  text-align: center;
+  font-size: 90px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+
+#bilde3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+#omoss {
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  font-size: 7px;
+}
+
+#ernæring {
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+  font-size: 9px;
+}
+
+
+#ernæring2 {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+  }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(29, 4, 20);
+    color: rgb(206, 142, 172);
+    text-align: center;
+}
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+  
+
+
